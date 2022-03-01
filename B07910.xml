@@ -1,0 +1,914 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A forme of prayer, with thankesgiuing, to bee vsed of all the Kings Maiesties louing subiects euery yeere the 27. of March. Being the day of His Highnesse entry to this kingdome. ; Set forth by authority.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07910</idno>
+            <idno type="STC">STC 16485</idno>
+            <idno type="STC">ESTC S125766</idno>
+            <idno type="EEBO-CITATION">68222351</idno>
+            <idno type="OCLC">ocm 68222351</idno>
+            <idno type="VID">183747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2194:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A forme of prayer, with thankesgiuing, to bee vsed of all the Kings Maiesties louing subiects euery yeere the 27. of March. Being the day of His Highnesse entry to this kingdome. ; Set forth by authority.</title>
+                  <author>Church of England.</author>
+                  <author>Norton, Bonham, 1565-1635.</author>
+                  <author>Bill, John, d. 1630.</author>
+               </titleStmt>
+               <extent>[43] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton, and Iohn Bill, Printers to the Kings most Excellent Maiesty.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1626..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within woodcut border (McK. &amp; Ferg. 165[beta]); initial; tail-piece; black letter.</note>
+                  <note>Colophon dated 1625.</note>
+                  <note>Signatures: A-E⁴ F².</note>
+                  <note>"Cum priuilegio."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Anniversaries, etc.</term>
+               <term>Church of England --  Liturgy --  Texts --  Early works to 1800.</term>
+               <term>Accession service.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div rend="roman" type="title_page">
+            <pb facs="tcp:183747:1" rendition="simple:additions"/>
+            <p> A FORME OF Prayer, with Thankeſ<g ref="char:EOLhyphen"/>giuing, to bee vſed of all the Kings Maieſties louing Sub<g ref="char:EOLhyphen"/>iects euery yeere the 27. of March.</p>
+            <p>Being the day of His High<g ref="char:EOLhyphen"/>neſſe entry to this Kingdome.</p>
+            <p>
+               <hi rend="italic">Set forth by Authority.</hi>
+            </p>
+            <p>¶ Imprinted at London by <hi rend="italic">Bonham Norton</hi> and <hi rend="italic">Iohn Bill,</hi> Printers to the Kings moſt Excellent Maieſty.</p>
+            <p>
+               <hi rend="italic">Anno</hi> 1626.</p>
+            <p>
+               <hi rend="italic">¶ Cum priuilegio.</hi>
+            </p>
+            <figure>
+               <figDesc>surrounding the title page text, printer's device (McKerrow 221β): "Compartment with [the arms of Charles I] at top, Fides and Humilitas at sides; the ensigns of the four evangelists at the corners"</figDesc>
+               <p>FIDES</p>
+               <p>HVMILITAS</p>
+            </figure>
+            <pb facs="tcp:183747:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:183747:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="liturgy">
+            <pb facs="tcp:183747:3"/>
+            <head>¶ An Order for Morning Prayer to be vſed the 27. of March.</head>
+            <epigraph>
+               <bibl>1. <hi rend="italic">Tim.</hi> 2. <hi rend="italic">verſ.</hi> 1.</bibl>
+               <q>
+                  <p rend="roman">
+                     <hi>I Exhort you therefore, that firſt of all, prayers, ſuppli<g ref="char:EOLhyphen"/>cations, interceſſions, and giuing of thankes bee made for all men: for Princes, and for all that are in authoritie, that wee may liue a quiet and peaceable life, in all godli<g ref="char:EOLhyphen"/>neſſe and honeſty, for that is good and acceptable in the ſight of God our Sauiour.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <stage type="rubric">¶ You ſhall vnderſtand, that euery thing in this Booke is placed in order, as it ſhalbe vſed, without turning to and fro, ſauing the two Leſſons taken out of the olde Teſtament, of which you may chuſe either, as you thinke beſt, for the firſt leſſon at this morning prayer. And in Cathedrall Churches, the Miniſter may vſe either of the other two, for the firſt Leſſon at Euening prayer.</stage>
+            <stage type="rubric">¶ Firſt, the Miniſter ſhall with a loud voyce pronounce ſome one of theſe three Sentences, as in the Booke of common Prayer.</stage>
+            <p>
+               <note place="margin">
+                  <hi rend="roman">Ezech. 18.</hi>
+               </note> 
+               <seg rend="decorInit">A</seg>T what time ſoeuer a ſinner doth re<g ref="char:EOLhyphen"/>pent him of his ſinne from the bot<g ref="char:EOLhyphen"/>tome of his heart, I will put all his wickedneſſe out of my remembrance, ſaith the Lord.</p>
+            <p>
+               <note place="margin">
+                  <hi rend="roman">Ioel 2.</hi>
+               </note> Rent your hearts, and not your garments, and turne to the Lord your God, becauſe hee is gentle and mercifull, he is patient, and of much mercie, and ſuch a one that is ſorie for your afflictions.</p>
+            <pb facs="tcp:183747:4"/>
+            <p> If we ſay that we haue no ſinne, we deceiue our ſelues, and there is no trueth in vs.</p>
+            <p>DEarely beloued brethren, the ſcripture moueth vs in ſundry places, to acknowledge and con<g ref="char:EOLhyphen"/>feſſe our manifolde ſinnes and wickedneſſe, and that we ſhould not diſſemble nor cloke them before the face of Almightie God our heauenly Father, but confeſſe them with an humble, lowly, peni<g ref="char:EOLhyphen"/>tent, and obedient heart, to the end that wee may obtaine forgiueneſſe of the ſame, by his infinite goodneſſe and mercy. And although wee ought at al times humbly to acknowledge our ſinnes before God, yet ought we moſt chiefly ſo to doe when wee aſſemble and meete together, to render thankes for the great benefits that wee haue receiued at his hands, to ſet forth his moſt worthy praiſe, to heare his moſt holy word, &amp; to aſke thoſe things which be requiſite and neceſſary, as well for the body as the ſoule. Wherefore I pray and beſeech you as many as bee here preſent, to accompany me with a pure heart and humble voyce, vnto the throne of the heauenly grace, ſaying after me.</p>
+            <stage type="rubric">A generall Confeſſion to bee ſaid of the whole Con<g ref="char:EOLhyphen"/>gregation after the Miniſter, kneeling.</stage>
+            <p>ALmighty and moſt mercifull Father, wee haue erred &amp; ſtrayed from thy wayes like loſt ſheepe, wee haue followed too much the deuices and de<g ref="char:EOLhyphen"/>ſires of our owne hearts. We haue offended againſt thy holy Lawes. We haue left vndone thoſe things which we ought to haue done, and wee haue done thoſe things which wee ought not to haue done, and there is no health in vs, but thou, O Lord,
+<pb facs="tcp:183747:4"/> haue mercy vpon vs miſerable offenders. Spare thou them, O God, which confeſſe their faults, re<g ref="char:EOLhyphen"/>ſtore thou them that be penitent, according to thy promiſes declared vnto mankinde in Chriſt Ieſu our Lord. And grant, O moſt merciful Father, for his ſake, that we may hereafter liue a godly, righte<g ref="char:EOLhyphen"/>ous, and ſober life, to the glory of thy holy Name. Amen.</p>
+            <stage>The abſolution or remiſſion of ſinnes to bee pronoun<g ref="char:EOLhyphen"/>ced by the Prieſt alone.</stage>
+            <p>ALmighty God, the Father of our Lord Ieſus Chriſt, which deſireth not the death of a ſinner, but rather that he may turne from his wickednes and liue, and hath giuen power and commande<g ref="char:EOLhyphen"/>ment to his miniſters, to declare and pronounce to his people, being penitent, the abſolution and re<g ref="char:EOLhyphen"/>miſſion of their ſinnes: he pardoneth and abſol<g ref="char:EOLhyphen"/>ueth all them which truely repent, and vnfainedly beleeue his holy Goſpel. Wherefore we beſeech him to grant vs true repentance and his holy Spirit, that thoſe things may pleaſe him which wee doe at this preſent, and that the reſt of our life here<g ref="char:EOLhyphen"/>after may bee pure and holy, ſo that at the laſt we may come to his eternall ioy, through Ieſus Chriſt our Lord.</p>
+            <stage type="rubric">The people ſhall anſwere,</stage>
+            <sp>
+               <p>Amen.</p>
+            </sp>
+            <pb facs="tcp:183747:5"/>
+            <stage>¶ Then ſhall the Miniſter begin the Lords Prayer with a lowd voyce.</stage>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Father which art in heauen, hal<g ref="char:EOLhyphen"/>lowed be thy Name. Thy kingdome come. Thy will be done in earth as it is in heauen. Giue vs this day our dayly bread. And forgiue vs our treſ<g ref="char:EOLhyphen"/>paſſes, as we forgiue them that treſpaſſe againſt vs. And leade vs not into temptation: But deliuer vs from euill, Amen.</p>
+            <sp>
+               <stage>Then likewiſe he ſhall ſay:</stage>
+               <p>O Lord open thou our lips.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>And our mouth ſhall ſhew forth thy praiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>O God make ſpeede to ſaue vs.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>O Lord make haſte to helpe vs.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Glory be to the Father, and to the Sonne: and to the holy Ghoſt.</p>
+               <p>As it was in the beginning, is now, and euer ſhal bee: world without end, Amen.</p>
+               <p>¶ Praiſe ye the Lord.</p>
+            </sp>
+            <stage type="rubric">Then ſhall be ſayd or ſung this Pſalme following.</stage>
+            <p>
+               <hi rend="roman">O</hi> Come, let vs ſing vnto the Lord: let vs hearti<g ref="char:EOLhyphen"/>ly reioyce in the ſtrength of our ſaluation.</p>
+            <p>Let vs come before his preſence with thankeſ<g ref="char:EOLhyphen"/>giuing:
+<pb facs="tcp:183747:5"/> and ſhew our ſelues glad in him with Pſalmes.</p>
+            <p>For the Lord is a great God: and a great King aboue all gods.</p>
+            <p>In his hand are all the corners of the earth: and ſhe ſtrength of the hils is his alſo.</p>
+            <p>The Sea is his, and he made it: and his hands prepared the dry land.</p>
+            <p>O come, let vs worſhip, and fall downe: and kneele before the Lord our maker.</p>
+            <p>For he is the Lord our God: and we are the peo<g ref="char:EOLhyphen"/>ple of his paſture, and the ſheepe of his hands.</p>
+            <p>To day if yee will heare his voyce, harden not your hearts: as in the prouocation, and as in the day of temptation in the wilderneſſe.</p>
+            <p>When your fathers tempted me: proued me, and ſaw my workes.</p>
+            <p>Fourty yeeres long was I greeued with this ge<g ref="char:EOLhyphen"/>neration, and ſaid: It is a people that doe erre in their hearts, for they haue not knowen my wayes.</p>
+            <p>Unto whom I ſware in my wrath: that they ſhould not enter into my reſt.</p>
+            <p>Glory be to the Father, &amp;c.</p>
+            <p>As it was in the beginning, &amp;c.</p>
+            <div type="Psalm">
+               <head>Exaudiat te Dominus. Pſal. 20.</head>
+               <p>THe Lord heare thee in the day of trouble: the Name of the God of Iacob defend thee.</p>
+               <p>Send thee helpe from the Sanctuary: and ſtrengthen thee out of Sion.</p>
+               <p>Remember all thy offerings: and accept thy burnt ſacrifice.</p>
+               <p>Grant thee thy hearts deſire: and ſmall all thy minde.</p>
+               <pb facs="tcp:183747:6"/>
+               <p> Wee will reioyce in thy ſaluation, and tryumph in the name of the Lord our God: the Lord per<g ref="char:EOLhyphen"/>forme all thy petitions.</p>
+               <p>Now know I that the Lord helpeth his anoin<g ref="char:EOLhyphen"/>ted, and will heare him from his holy heauen: euen with the wholeſome ſtrength of his right hand.</p>
+               <p>Some put their truſt in charets, and ſome in horſes: but wee will remember the Name of the Lord our God.</p>
+               <p>They are brought downe and fallen: but we are riſen, and ſtand vpright.</p>
+               <p>Saue Lord, and heare vs, O King of heauen: when we call vpon thee.</p>
+            </div>
+            <div type="Psalm">
+               <head>Domine in virtute. Pſal. 21.</head>
+               <p>THe King ſhall reioyce in thy ſtrength, O Lord: exceeding glad ſhall he be of thy ſaluation.</p>
+               <p>Thou haſt giuen him his hearts deſire: and haſt not denied him the requeſt of his lips.</p>
+               <p>For thou ſhalt preuent him with the bleſſings of goodneſſe: and ſhalt ſet a crowne of pure gold vpon his head.</p>
+               <p>He aſked life of thee, and thou gaueſt him a long life: euen for euer and euer.</p>
+               <p>His honour is great in thy ſaluation: glory and great worſhip ſhalt thou lay vpon him.</p>
+               <p>For thou ſhalt giue him euerlaſting felicitie: and make him glad with the ioy of thy countenance.</p>
+               <p>And why? becauſe the king putteth his truſt in the Lord: and in the mercie of the moſt higheſt, he ſhall not miſcarie.</p>
+               <p>All thine enemies ſhall feele thy hand: thy right hand ſhall finde out them that hate thee.</p>
+               <p>Thou ſhalt make them like a fierie ouen in time
+<pb facs="tcp:183747:6"/> of thy wrath: the Lord ſhall deſtroy them in his diſpleaſure, and the fire ſhall conſume them.</p>
+               <p>Their fruit ſhalt thou roote out of the earth: and their ſeede from among the children of men.</p>
+               <p>For they intended miſchiefe againſt thee: and imagined ſuch a deuice as they are not able to per<g ref="char:EOLhyphen"/>forme.</p>
+               <p>Therefore ſhalt thou put them to flight: and the ſtrings of thy bow ſhalt thou make ready againſt the face of them.</p>
+               <p>Be thou exalted Lord in thine owne ſtrength: ſo will we ſing and prayſe thy power.</p>
+            </div>
+            <div type="Psalm">
+               <head>Benedixiſti Domine. Pſal. 85.</head>
+               <p>LOrd, thou art become gracious vnto thy land: thou haſt turned away the captiuity of Iacob.</p>
+               <p>Thou haſt forgiuen the offence of thy people: and couered all their ſinnes.</p>
+               <p>Thou haſt taken away all thy diſpleaſure: and turned thy ſelfe from thy wrathfull indignation.</p>
+               <p>Turne vs then O God our Sauiour: and let thine anger ceaſe from vs.</p>
+               <p>Wilt thou be diſpleaſed at vs for euer: and wilt thou ſtretch out thy wrath from one generation to another?</p>
+               <p>Wilt thou not turne againe, and quicken vs: that thy people may reioyce in thee?</p>
+               <p>Shew vs thy mercy, O Lord: and graunt vs thy ſaluation.</p>
+               <p>I will hearken what the Lord God will ſay con<g ref="char:EOLhyphen"/>cerning me: for he will ſpeake peace vnto his peo<g ref="char:EOLhyphen"/>ple, and to his ſaints, that they turne not againe.</p>
+               <p>For his ſaluation is nigh them that feare him: that glory may dwell in our land.</p>
+               <pb facs="tcp:183747:7"/>
+               <p> Mercy and trueth are met together: righteouſ<g ref="char:EOLhyphen"/>neſſe and peace haue kiſſed each other.</p>
+               <p>Trueth ſhall flouriſh out of the earth: and righ<g ref="char:EOLhyphen"/>teouſneſſe hath looked downe from heauen.</p>
+               <p>Yea, the Lord ſhall ſhew louing kindneſſe: and our land ſhall giue her increaſe.</p>
+               <p>Righteouſneſſe ſhall goe before him: and he ſhall direct his going in the way.</p>
+            </div>
+            <div type="Psalm">
+               <head>Confitemini Domino. Pſal. 118.</head>
+               <p>
+                  <hi rend="roman">O</hi> Giue thankes vnto the Lord, for hee is graci<g ref="char:EOLhyphen"/>ous: becauſe his mercy endureth for euer.</p>
+               <p>Let Iſrael now confeſſe, that hee is gracious: and that his mercy endureth for euer.</p>
+               <p>Let the houſe of Aaron now confeſſe: that his mercy endureth for euer.</p>
+               <p>Yea, let them now that feare the Lord, confeſſe: that his mercy endureth for euer.</p>
+               <p>I called vpon the Lord in trouble: and the Lord heard me at large.</p>
+               <p>The Lord is on my ſide: I will not feare what man doeth vnto me.</p>
+               <p>The Lord taketh my part with them that helpe mee: therefore ſhall I ſee my deſire vpon mine ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p>It is better to truſt in the Lord: then to put any confidence in man.</p>
+               <p>It is better to truſt in the Lord: then to put any confidence in princes.</p>
+               <p>All Nations compaſſed me round about: but in the Name of the Lord will I deſtory them.</p>
+               <p>They kept me in on euery ſide, they kept mee in (I ſay) on euery ſide: but in the Name of the Lord will I deſtroy them.</p>
+               <pb facs="tcp:183747:7"/>
+               <p> They came about me like Bees, and are extinct, euen as the fire among the thornes: for in the Name of the Lord will I deſtroy them.</p>
+               <p>Thou haſt thruſt ſore at me, that I might fall: but the Lord was my helpe.</p>
+               <p>The Lord is my ſtrength and my ſong: and is become my ſaluation.</p>
+               <p>The voyce of ioy and health is in the dwellings of the righteous: the right hand of the Lord brin<g ref="char:EOLhyphen"/>geth mighty things to paſſe.</p>
+               <p>The right hand of the Lord hath the preemi<g ref="char:EOLhyphen"/>nence: the right hand of the Lord bringeth migh<g ref="char:EOLhyphen"/>ty things to paſſe.</p>
+               <p>I will not die, but liue: and declare the workes of the Lord.</p>
+               <p>The Lord hath chaſtened and corrected me: but he hath not giuen me ouer vnto death.</p>
+               <p>Open me the gates of righteouſnes: that I may goe into them, and giue thankes vnto the Lord.</p>
+               <p>This is the gate of the Lord: the righteous ſhall enter into it.</p>
+               <p>I will thanke thee, for thou haſt heard mee: and art become my ſaluation.</p>
+               <p>The ſame ſtone which the builders refuſed: is be<g ref="char:EOLhyphen"/>come the head ſtone of the corner.</p>
+               <p>This is the Lords doing: and it is marueilous in our eyes.</p>
+               <p>This is the day which the Lord hath made: wee will reioyce and be glad in it.</p>
+               <p>Helpe mee now, O Lord: O Lord ſend vs now proſperity.</p>
+               <p>Bleſſed bee he that commeth in the Name of the Lord: we haue wiſhed you good lucke, yee that bee of the houſe of the Lord.</p>
+               <pb facs="tcp:183747:8"/>
+               <p> God is the Lord which hath ſhewed vs light: binde the ſacrifice with cords, yea, euen vnto the hornes of the Altar.</p>
+               <p>Thou art my God, and I will thanke thee: thou art my God, and I will praiſe thee.</p>
+               <p>O giue thankes vnto the Lord, for hee is graci<g ref="char:EOLhyphen"/>ous: and his mercy endureth for euer.</p>
+            </div>
+            <div type="lesson">
+               <head>¶ For the firſt Leſſon is appointed to be read the firſt Chapter of the Booke of Ioſuah.</head>
+               <p>AFter the death of Moſes the ſeruant of the Lord, it came to paſſe that the Lord, ſpake vn<g ref="char:EOLhyphen"/>to Ioſuah the ſonne of Nun, Moſes miniſter, ſay<g ref="char:EOLhyphen"/>ing, Moſes my ſeruant is dead: now therefore a<g ref="char:EOLhyphen"/>riſe, goe ouer this Iordane, thou, and all this peo<g ref="char:EOLhyphen"/>ple, vnto the land the which I to them the children of Iſrael doe giue. All the places that the ſoles of your feete ſhall tread vpon, haue I giuen you, as I ſayd vnto Moſes. From the wilderneſſe and this Lebanon, vnto the great riuer Euphrates, all the land of the Hittites, euen vnto the great ſea, to<g ref="char:EOLhyphen"/>ward the going downe of the Sunne, ſhalbe your coaſt. There ſhall not a man be able to with ſtand thee, all the dayes of thy life: for as I was with Moſes, ſo will I be with thee, and will not fayle thee, nor forſake thee. Be ſtrong therefore, and bold: for vnto this people ſhalt thou diuide the land for inheritance, which I ſware vnto their fathers to giue them, Onely bee thou ſtrong, and of a ſtout courage, that thou mayeſt obſerue and doe accor<g ref="char:EOLhyphen"/>ding to all the law which Moſes my ſeruant com<g ref="char:EOLhyphen"/>manded thee: turne from the ſame neither to the right hand, nor to the left, that thou mayeſt doe wiſely in all that thou takeſt in hand. Let not
+<pb facs="tcp:183747:8"/> the Booke of this Law depart out of thy mouth, but occupie thy minde therein day and night, that thou mayeſt obſerue and do according to all that is written therein: for then thou ſhalt make thy way proſperous, and then thou ſhalt doe wiſely. Haue not I commaunded thee, that thou ſhouldeſt bee ſtrong and hardy, and not feare nor bee faint hearted? for I the Lord thy God am with thee, whitherſoeuer thou goeſt. Then Ioſuah comman<g ref="char:EOLhyphen"/>ded the officers of the people, ſaying, Goe through the middeſt of the hoſte, and command the people, ſaying, Prepare your victuals: for after three dayes yee ſhall paſſe ouer this Iordane to goe in, and en<g ref="char:EOLhyphen"/>ioy the land which the Lord your God giueth you to poſſeſſe it. And vnto the Reubenites, Gadites, and halfe the tribe of Manaſſes, ſpake Ioſuah ſaying, Remember the word which Moſes the ſeruant of the Lord commanded you, ſaying, The Lord your God hath giuen you reſt, and hath gi<g ref="char:EOLhyphen"/>uen you this land. Your wiues, your children, and your cattell, ſhall remaine in the land which Mo<g ref="char:EOLhyphen"/>ſes gaue you on this ſide Iordane: but ye ſhall goe before your brethren armed, all that bee men of warre, and helpe them, vntill the Lord haue gi<g ref="char:EOLhyphen"/>uen your brethren reſt, as hee hath you, and vn<g ref="char:EOLhyphen"/>till they alſo haue obtained the land which the Lord your GOD giueth them: and then ſhall yee returne vnto the land of your poſſeſſion, and enioy it, which <hi rend="roman">land</hi> Moſes the Lords ſer<g ref="char:EOLhyphen"/>uant gaue you on this ſide Iordan toward the Sun riſing. And they anſwered Ioſuah, ſaying, All that thou haſt commanded vs, wee will doe, and whitherſoeuer thou ſendeſt vs, we will goe. Accor<g ref="char:EOLhyphen"/>ding as we obeyed Moſes in all things, ſo will wee
+<pb facs="tcp:183747:9"/> obey thee: onely the Lord thy God bee with thee, as he was with Moſes. And whoſoeuer he be that doth diſobey thy mouth, and will not hearken vn<g ref="char:EOLhyphen"/>to thy words in all that thou commandeſt him, let him die: onely be ſtrong, and of good courage,</p>
+            </div>
+            <div type="lesson">
+               <head>The firſt Chapter of the ſecond Booke of the Chronicles.</head>
+               <p>
+                  <note place="margin">Or this may bee the firſt Leſſon.</note> AND Solomon the Sonne of Dauid waxed ſtrong in his kingdome, and the Lord his God was with him, and magnifyed him in dignity. And Solomon ſpake vnto all Iſrael, to the Captaines ouer thouſands, to the Captaines ouer hundreds, to the Iudges, and to euery Officer in all Iſrael, and to the ancient fathers. And ſo Solomon, and all the Congregation with him, went to the high place that was at Gibeon: for there was the Ta<g ref="char:EOLhyphen"/>bernacle of the Congregation of God, which Mo<g ref="char:EOLhyphen"/>ſes the ſeruant of the Lord made in the wildernes. But the Arke of God had Dauid brought from Kiriath-iarim, into the place which Dauid had made therefore: for hee had pitched a tent for it at Hieruſalem. Moreouer, the braſen Altar that Be<g ref="char:EOLhyphen"/>zaleel the ſonne of Vri, the ſonne of Hur had made, was there before the Tabernacle of the Lord, and Solomon and the Congregation went to viſit it. And Solomon went vp there before the Lord, to the brazen Altar that was before the Tabernacle of the Congregation, and offered a thouſand whole burnt offerings vpon it. And the ſame night did God appeare vnto Solomon, and ſayd vnto him, Aſke what I ſhal giue thee. And Solomon ſaid vn<g ref="char:EOLhyphen"/>to God, Thou haſt ſhewed great mercy vnto Da<g ref="char:EOLhyphen"/>uid my father, and haſt made mee to reigne in his
+<pb facs="tcp:183747:9"/> ſtead. Now therefore O Lord God, let thy promiſe, which thou madeſt vnto Dauid my father, be true: for thou haſt made me king ouer a people which is like the duſt of the earth in multitude: Giue mee now wiſedome and knowledge, that I may be able to go in and out before this people: for who els can iudge this people that is ſo great? And God ſaid to Solomon, Becauſe this was in thine heart, and becauſe thou haſt not aſked treaſure, and riches, nor honour, nor the liues of thine enemies, neither yet long life, but haſt aſked wiſdome &amp; knowledge for thy ſelf, to iudge my people, ouer whom I haue made thee king: Wiſedome and knowledge is gran<g ref="char:EOLhyphen"/>ted vnto thee, and I will giue thee treaſure, and ri<g ref="char:EOLhyphen"/>ches, and glory: ſo that among the kings that haue beene before thee, or after thee, none was or ſhal be like thee. And ſo Solomon came from the high place that was at Gibeon, to Hieruſalem, from the Tabernacle of the Congregation, and reigned ouer Iſrael. And Solomon gathered charets, &amp; horſe<g ref="char:EOLhyphen"/>men: and he had a thouſand and foure hundred cha<g ref="char:EOLhyphen"/>rets, and twelue thouſand horſemen, whom he be<g ref="char:EOLhyphen"/>ſtowed in the charet cities, and with the King at Hieruſalem. And the King made ſiluer and gold at Hieruſalem, as plenteous as ſtones, &amp; Cedar trees made he as plenteous as y<hi rend="sup">e</hi> mulbery trees that grow in the valleyes. Alſo Solomon had horſes brought out of Egypt, and fine linnen: the kings marchants receiued the fine linnen for a price. They came al<g ref="char:EOLhyphen"/>ſo, and brought out of Egypt, a charet for ſixe hun<g ref="char:EOLhyphen"/>dred pieces of ſiluer, euen an horſe for an hundred and fifty: and ſo brought they <hi rend="roman">horſes</hi> for al the kings of the Hittites, and for the kings of Syria, by their owne hand.</p>
+            </div>
+            <div type="canticle">
+               <pb facs="tcp:183747:10"/>
+               <head>Te Deum laudamus.</head>
+               <p>VVEe praiſe thee, O God: we knowledge thee to be the Lord.</p>
+               <p>All the earth doeth worſhip thee: the Father euer<g ref="char:EOLhyphen"/>laſting.</p>
+               <p>To thee all Angels cry alowde: the heauens, and all the powers therein.</p>
+               <p>To thee Cherubin and Seraphin: continually doe cry.</p>
+               <p>Holy, holy, holy: Lord God of Sabaoth.</p>
+               <p>Heauen and earth are full of the Maieſtie: of thy glory.</p>
+               <p>The glorious company of the Apoſtles: praiſe thee.</p>
+               <p>The goodly fellowſhip of the Prophets: praiſe thee.</p>
+               <p>The noble armie of Martyrs: praiſe thee.</p>
+               <p>The holy Church thoughout all the world: doeth knowledge thee.</p>
+               <p>The Father: of an infinite Maieſtie.</p>
+               <p>Thy honourable, true: and onely Sonne.</p>
+               <p>Alſo the holy Ghoſt: the Comforter.</p>
+               <p>Thou art the King of glory: O Chriſt.</p>
+               <p>Thou art the euerlaſting Sonne: of the Father.</p>
+               <p>When thou tookeſt vpon thee to deliuer man: thou diddeſt not abhorre the Virgins wombe.</p>
+               <p>When thou haddeſt ouercome the ſharpeneſſe of death: thou diddeſt open the kingdome of heauen to all beleeuers.</p>
+               <p>Thou ſitteſt on the right hand of God: in the glory of the Father.</p>
+               <p>We beleeue that thou ſhalt come: to be our Iudge.</p>
+               <p>We therefore pray thee helpe thy ſeruants: whom thou haſt redeemed with thy precious blood.</p>
+               <p>Make them to bee numbred with thy Saints: in glory euerlaſting.</p>
+               <pb facs="tcp:183747:10"/>
+               <p> O Lord ſaue thy people: and bleſſe thine heritage.</p>
+               <p>Gouerne them: and lift them vp for euer.</p>
+               <p>Day by day: we magnifie thee.</p>
+               <p>And wee worſhip thy Name: euer world without ende.</p>
+               <p>Uouchſafe, O Lord: to keepe vs this day with<g ref="char:EOLhyphen"/>out ſinne.</p>
+               <p>O Lord haue mercy vpon vs: haue mercy vpon vs.</p>
+               <p>O Lord let thy mercie lighten vpon vs: as our truſt is in thee.</p>
+               <p>O Lord in thee haue I truſted: let me neuer be con<g ref="char:EOLhyphen"/>founded.</p>
+            </div>
+            <div type="lesson">
+               <head>The ſecond Leſſon, taken out of the Epiſtle of S. Paul to the Romanes, the thirteenth Chapter.</head>
+               <p>LEt euery ſoule bee ſubiect vnto the higher pow<g ref="char:EOLhyphen"/>ers: for there is no power but of God: and the powers that bee, are ordeined of God. Whoſoeuer therefore reſiſteth the power, reſiſteth the ordinance of God: and they that reſiſt ſhall receiue to them<g ref="char:EOLhyphen"/>ſelues iudgement. For Princes are not to bee fea<g ref="char:EOLhyphen"/>red for good workes, but for euill. Wilt thou then be without feare of the power? do wel: ſo ſhalt thou haue praiſe of the ſame. For hee is the miniſter of God for thy wealth: but if thou do euil, feare: for he beareth not the ſword for nought: for he is the mi<g ref="char:EOLhyphen"/>niſter of God to take vengeance on him that doeth euill. Wherefore ye muſt be ſubiect, not becauſe of wrath onely, but alſo for conſcience ſake. For, for this cauſe yee pay alſo tribute: for they are Gods miniſters, applying themſelues for the ſame thing.</p>
+               <p>Giue to all men therefore their duetie, tribute, to whom ye o we tribute: cuſtome, to whom cuſtome:
+<pb facs="tcp:183747:11"/> feare, to whom feare: honour, to whom ye o we ho<g ref="char:EOLhyphen"/>nour. O we nothing to any man, but to loue one another: for he that loueth another, hath fulfilled the Law. For this, Thou ſhalt not commit adul<g ref="char:EOLhyphen"/>tery, Thou ſhalt not kill, Thou ſhalt not ſteale, Thou ſhalt not beare falſe witnes, Thou ſhalt not couet: and if there be any other Commandement, it is briefly comprehended in this ſaying, euen in this, Thou ſhalt loue thy neighbour as thy ſelfe.</p>
+               <p>Loue doth not euill to his neighbour: therefore is loue the fulfilling of the Law.</p>
+               <p>And that, conſidering the ſeaſon, that it is now time that wee ſhould ariſe from ſleepe: for now is our ſaluation neerer, then when wee beleeued it. The night is paſt, and the day is at hand: let vs therefore caſt away the workes of darkeneſſe, and let vs put on the armour of light. So that wee walke honeſtly, as in the day: not in gluttony, and drunkenneſſe, neither in chambering and wanton<g ref="char:EOLhyphen"/>neſſe, nor in ſtrife and enuying: But put yee on the Lord Ieſus Chriſt, and take no thought for the fleſh, to fulfill the luſts of it.</p>
+            </div>
+            <div type="canticle">
+               <head>After the ſecond Leſſon, ſhall be vſed and ſaid, Benedictus in Engliſh, as followeth.</head>
+               <p>BLeſſed be the Lord God of Iſrael: for hee hath viſited and redeemed his people.</p>
+               <p>And hath raiſed vp a mighty ſaluation for vs: in the houſe of his ſeruant Dauid.</p>
+               <p>As he ſpake by the mouth of his holy Prophets: which haue been ſince the world began.</p>
+               <p>That we ſhould be ſaued from our enemies: and from the hands of all that hate vs.</p>
+               <pb facs="tcp:183747:11"/>
+               <p> To performe the mercie promiſed to our forefa<g ref="char:EOLhyphen"/>thers: and to remember his holy Couenant.</p>
+               <p>To performe the oath which hee ſware to our forefather Abraham: that he would giue vs.</p>
+               <p>That we being deliuered out of the hands of our enemies: might ſerue him without feare.</p>
+               <p>In holineſſe and righteouſnes before him: all the dayes of our life.</p>
+               <p>And thou Childe ſhalt be called the Prophet of the Higheſt: for thou ſhalt goe before the face of the Lord to prepare his wayes.</p>
+               <p>To giue knowledge of ſaluation vnto his people: for the remiſſion of their ſinnes.</p>
+               <p>Through the tender mercie of our God: where<g ref="char:EOLhyphen"/>by the day ſpring from an high hath viſited vs.</p>
+               <p>To giue light to them that ſit in darkeneſſe, and in the ſhadow of death: and to guide our feete into the way of peace.</p>
+               <p>Glory be to the Father, and to the Sonne: and to the holy Ghoſt.</p>
+               <p>As it was in the beginning, is now, and euer ſhal be: world without end. Amen.</p>
+            </div>
+            <div type="Psalm">
+               <head>Or this C. Pſalme.</head>
+               <p>
+                  <hi rend="roman">O</hi> Be ioyfull in the Lord all yee lands: ſerue the Lord with gladneſſe, and come before his pre<g ref="char:EOLhyphen"/>ſence with a ſong.</p>
+               <p>Bee ye ſure that the Lord he is God, it is hee that hath made vs, and not wee our ſelues: wee are his people, and the ſheepe of his paſture.</p>
+               <p>O goe your way into his gates with thankeſgi<g ref="char:EOLhyphen"/>uing, and into his courts with praiſe: be thankeful vnto him, and ſpeake good of his Name.</p>
+               <p>For the Lord is gracious, his mercie is euer<g ref="char:EOLhyphen"/>laſting:
+<pb facs="tcp:183747:12"/> and his trueth endureth from generation to generation.</p>
+               <p>Glory be to the Father, and to the Sonne: and to the holy Ghoſt.</p>
+               <p>As it was in the beginning, is now, and euer ſhall be: world without end. Amen.</p>
+            </div>
+            <div type="prayers">
+               <p>
+                  <hi rend="roman">I</hi> Beleeue in God the Father Almighty, maker of heauen and earth. And in Ieſus Chriſt his onely Sonne our Lord, which was conceiued by the ho<g ref="char:EOLhyphen"/>ly Ghoſt, borne of the virgin Mary, ſuffered vnder Ponce Pilate, was crucified, dead, and buried, hee deſcended into hell, the third day hee roſe againe from the dead, he aſcended into heauen, and ſitteth on the right hand of God the Father Almighty, from thence ſhall hee come to iudge the quicke and the dead. I beleeue in the holy Ghoſt, the holy Ca<g ref="char:EOLhyphen"/>tholike Church, the communion of Saints, the forgiueneſſe of ſinnes, the reſurrection of the body, and the life euerlaſting. Amen.</p>
+               <stage>And after that, theſe Prayers following, aſwell at Eue<g ref="char:EOLhyphen"/>ning prayer, as at Morning prayer, all deuoutly knee<g ref="char:EOLhyphen"/>ling; The Miniſter firſt pronouncing with a loude voyce.</stage>
+               <sp>
+                  <p>The Lord be with you.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And with thy Spirit.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>Let vs pray.</p>
+                  <p>Lord haue mercie vpon vs.</p>
+                  <p>Chriſt haue mercie vpon vs.</p>
+                  <p>Lord haue mercie vpon vs.</p>
+                  <pb facs="tcp:183747:12"/>
+                  <p> Our Father which art in heauen, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>O Lord ſhew thy mercy vpon vs.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And grant vs thy ſaluation.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>O Lord ſaue the King</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>Who putteth his truſt in thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>Send him helpe from thy holy place.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And euermore mightily defend him.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>Let the enemies haue none aduantage ouer him.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>Let not the wicked approach to hurt him.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>Indue thy Miniſters with righteouſneſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And make thy choſen people ioyfull.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>O Lord ſaue thy people.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And bleſſe thine inheritance.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>Giue peace in our time, O Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>Becauſe there is none other that fighteth for vs, but onely thou, O God.</p>
+               </sp>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>O God make cleane our heartes within vs.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>And take not thy holy Spirit from vs.</p>
+               </sp>
+               <pb facs="tcp:183747:13"/>
+               <p>
+                  <label>A Prayer for the Kings Maieſtie.</label> 
+                  <hi rend="roman">O</hi> Lord our heauenly Father, high and migh<g ref="char:EOLhyphen"/>tie, King of kings, Lord of lords, the one<g ref="char:EOLhyphen"/>ly ruler of Princes, which doeſt from thy Throne behold all the dwellers vpon y<hi rend="sup">e</hi> earth, moſt heartily we beſeech thee with thy fauour to behold our moſt gracious Souereigne Lord King <hi rend="roman">Charles,</hi> and ſo repleniſh him with the grace of thy holy Spirit, that hee may alway incline to thy will, and walke in thy way, indue him plentifully with hea<g ref="char:EOLhyphen"/>uenly gifts, grant him in health and wealth long to liue, ſtrengthen him that hee may vanquiſh and ouercome all his enemies, and finally after this life, hee may attaine euerlaſting ioy &amp; felicity, through Ieſus Chriſt our Lord, Amen.</p>
+               <stage type="rubric">Or this.</stage>
+               <p>
+                  <hi rend="roman">O</hi> Lord, thou haſt dealt graciouſly with our land: and we thy vnworthy creatures acknow<g ref="char:EOLhyphen"/>ledge our ſelues infinitely bleſſed in thy ſeruant our dread Souereigne King <hi rend="roman">Charles,</hi> whom thou haſt choſen and anointed to rule ouer vs: and wee are at this time here gathered together before heauen, and before thee, to make a gratefull commemora<g ref="char:EOLhyphen"/>tion of the time, and of the day wherein this thine vnſpeakeable goodneſſe began to bee powred vpon vs, and to offer vp our vowes and ſacrifices of thankſgiuing, and praiſe vnto thy glorious Name, which cannot worthily of vs be praiſed: humbly be<g ref="char:EOLhyphen"/>ſeeching thee to accept the vnworthy oblation of our ſelues, vowing all holy obedience in thought, word and worke vnto thy diuine Maieſtie, and pro<g ref="char:EOLhyphen"/>miſing
+<pb facs="tcp:183747:13"/> in thee, and for thee vnto this our King all loyall and faithfull allegiance, and to his ſeede, his heires, and ſucceſſors after him in all generations, whom wee beſeech thee to follow with all increaſe of honour and happineſſe in this world, and to crowne with immortalitie, and glory in the world to come, for Ieſus Chriſt his ſake our onely Lord and Sauiour. Amen.</p>
+               <p>
+                  <hi rend="roman">O</hi> God, which art the authour of peace, and lo<g ref="char:EOLhyphen"/>uer of concord, in knowledge of whom ſtan<g ref="char:EOLhyphen"/>deth our eternall life, whoſe ſeruice is perfect free<g ref="char:EOLhyphen"/>dome, defend vs thy humble ſeruants in all aſſaults of our enemies, that wee ſurely truſting in thy de<g ref="char:EOLhyphen"/>fence, may not feare the power of any aduerſaries, through the might of Ieſus Chriſt our Lord. Amen.</p>
+               <p>
+                  <label>The third Collect for grace.</label> 
+                  <hi rend="roman">O</hi> Lord our heauenly Father, Almighty and e<g ref="char:EOLhyphen"/>uerlaſting God, which haſt ſafely brought vs to the beginning of this day, defend vs in the ſame with thy mighty power, and grant that this day we fall into no ſinne, neither runne into any kinde of danger, but that all our doings may be ordered by thy gouernance, to do alwayes that is righteous in thy ſight, through Ieſus Chriſt our Lord. Amen.</p>
+               <pb facs="tcp:183747:14"/>
+               <stage>¶ It is ordered, that the Letany ſhall not be omit<g ref="char:EOLhyphen"/>ted the ſeuen and twentieth day of March, though it fall vpon Munday, Tueſday, Thurſday, or Saturday.</stage>
+               <p>
+                  <seg rend="decorInit">O</seg> God the Father of heauen: haue mercy vpon vs miſerable ſinners.</p>
+               <p>
+                  <hi rend="roman">O God the Father of heauen: &amp;c.</hi>
+               </p>
+               <p>O God the Son redeemer of the world: haue mercy vpon vs miſerable ſinners.</p>
+               <p>
+                  <hi rend="roman">O God the Sonne redeemer of the world: &amp;c.</hi>
+               </p>
+               <p>O God the holy Ghoſt proceeding from the Father and the Sonne: haue mercie vpon vs miſerable ſinners.</p>
+               <p>
+                  <hi rend="roman">O God the holy Ghoſt proceeding, &amp;c.</hi>
+               </p>
+               <p>O holy, bleſſed, and glorious Trinity, three per<g ref="char:EOLhyphen"/>ſons and one God: haue mercie vpon vs miſerable ſinners.</p>
+               <p>
+                  <hi rend="roman">O holy bleſſed, and glorious Trinity, &amp;c.</hi>
+               </p>
+               <p>Remember not Lord our offences, nor the offen<g ref="char:EOLhyphen"/>ces of our forefathers, neither take thou vengeance of our ſinnes: ſpare vs good Lord, ſpare thy people whom thou haſt redeemed with thy moſt precious blood, and bee not angry with vs for euer.</p>
+               <p>
+                  <hi rend="roman">Spare vs good Lord.</hi>
+               </p>
+               <p>From all euill and miſchiefe, from ſinne, from the crafts and aſſaults of the deuill, from thy wrath, and from euerlaſting damnation.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>From all blindneſſe of heart, from pride, vaine glory and hypocriſie, from enuy, hatred, and malice, and all vncharitableneſſe.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>From fornication, and all other deadly ſinne,
+<pb facs="tcp:183747:14"/> and from all the deceits of the world, the fleſh and the deuill.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>From lightning and tempeſt, from plague, pe<g ref="char:EOLhyphen"/>ſtilence and famine, from battell and murder, and from ſudden death.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>From all ſedition and priuy conſpiracie, from all falſe doctrine and hereſie, from hardneſſe of heart, and contempt of thy word and comman<g ref="char:EOLhyphen"/>dement.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>By the myſterie of thy holy incarnation, by thy holy natiuitie and circumciſion, by thy baptiſme, faſting and temptation.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>By thine agonie and bloody ſweat, by thy croſſe and paſſion by thy precious death and buriall, by thy glorious reſurrection and aſcenſion, and by the comming of the holy Ghoſt.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>In all time of our tribulation, in all time of our wealth, in the houre of death, and in the day of iudgement.</p>
+               <p>
+                  <hi rend="roman">Good Lord deliuer vs.</hi>
+               </p>
+               <p>We ſinners do beſeech thee to heare vs, (O Lord God) and that it may pleaſe thee to rule &amp; gouerne thy holy Church vniuerſally in the right way.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to keepe and ſtrengthen in the true worſhipping of thee, in righteouſneſſe and holineſſe of life, thy ſeruant <hi rend="roman">Charles,</hi> our moſt gracious King and Gouernour.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <pb facs="tcp:183747:15"/>
+               <p> That it may pleaſe thee to rule his heart in thy faith, feare and loue, and that hee may alwayes haue affiance in thee, and euer ſeeke thy honour and glory.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to bee his defender and keeper, giuing him the victory ouer all his enemies.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to bleſſe and preſerue our gracious Queene <hi rend="roman">Mary,</hi> Fredericke the Prince Elector Palatine, and the Lady <hi rend="roman">Elizabeth</hi> his wife, with their Princely iſſue.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to illuminate all Bi<g ref="char:EOLhyphen"/>ſhops, Paſtours, &amp; Miniſters of the Church, with true knowledge and vnderſtanding of thy word, and that both by their preaching and liuing they may ſet it foorth, and ſhew it accordingly.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to endue the Lords of the Counſaile, and all the Nobilitie, with grace, wiſedome, and vnderſtanding.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to bleſſe and keepe the Magiſtrates, giuing them grace to execute iuſtice, and to maintaine trueth.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to bleſſe and keepe al thy people.</p>
+               <p>
+                  <hi rend="roman">We beſech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to giue to all nations vnitie, peace, and concord.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to giue vs an heart to
+<pb facs="tcp:183747:15"/> loue and dread thee, and diligently to liue after thy commandements.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to giue to all thy people increaſe of grace, to heare meekly thy word, and to receiue it with pure affection, and to bring foorth the fruits of the Spirit.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to bring into the way of trueth, all ſuch as haue erred, and are deceiued.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to ſtrengthen ſuch as do ſtand, and to comfort and helpe the weake hearted, and to raiſe vp them that fall, and finally to beate downe Satan vnder our feet.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to ſuccour, helpe, and comfort all that bee in danger, neceſſitie, and tri<g ref="char:EOLhyphen"/>bulation,</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to preſerue all that tra<g ref="char:EOLhyphen"/>uaile by land or by water, all women labouring of childe, all ſicke perſons and yong children, and to ſhew thy pitie vpon all priſoners and captiues.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to defende and prouide for the fatherleſſe children and widowes, and all that be deſolate and oppreſſed.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to haue mercy vpon all men.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to forgiue our enemies, perſecutors and ſlanderers, and to turne their hearts.</p>
+               <pb facs="tcp:183747:16"/>
+               <p> 
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to giue and preſerue to our vſe the kindly fruits of the earth, ſo as in due time we may enioy them.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>That it may pleaſe thee to giue vs true repen<g ref="char:EOLhyphen"/>tance, to forgiue vs all our ſinnes, negligences and ignorances, and to endue vs with the grace of thy holy ſpirit, to amend our liues according to thy ho<g ref="char:EOLhyphen"/>ly word.</p>
+               <p>
+                  <hi rend="roman">We beſeech thee to heare vs good Lord.</hi>
+               </p>
+               <p>Sonne of God: we beſeech thee to heare vs.</p>
+               <p>
+                  <hi rend="roman">Sonne of God: we beſeech thee to heare vs.</hi>
+               </p>
+               <p>O Lambe of God, that takeſt away the ſinnes of the world.</p>
+               <p>
+                  <hi rend="roman">Grant vs thy peace.</hi>
+               </p>
+               <p>O Lambe of God, that takeſt away the ſinnes of the world.</p>
+               <p>
+                  <hi rend="roman">Haue mercy vpon vs.</hi>
+               </p>
+               <p>O Chriſt heare vs.</p>
+               <p>
+                  <hi rend="roman">O Chriſt heare vs.</hi>
+               </p>
+               <p>Lord haue mercie vpon vs.</p>
+               <p>
+                  <hi rend="roman">Lord haue mercy vpon vs.</hi>
+               </p>
+               <p>Chriſt haue mercie vpon vs.</p>
+               <p>
+                  <hi rend="roman">Chriſt haue mercy vpon vs.</hi>
+               </p>
+               <p>Lord haue mercy vpon vs.</p>
+               <p>
+                  <hi rend="roman">Lord haue mercie vpon vs.</hi>
+               </p>
+               <p>
+                  <hi rend="roman">Our Father which art in heauen, &amp;c.</hi>
+               </p>
+               <p>And leade vs not into temptation.</p>
+               <p>But deliuer vs from euill. Amen.</p>
+               <p>
+                  <label>The Verſicle.</label> O Lord deale not with vs after our ſinnes.</p>
+               <p>
+                  <label>Anſwere.</label> Neither reward vs after our iniquities.</p>
+               <pb facs="tcp:183747:16"/>
+               <p rend="roman">Let vs pray.</p>
+               <p>
+                  <hi rend="roman">O</hi> God mercifull Father, that deſpiſeſt not the ſighing of a contrite heart, nor the deſire of ſuch as bee ſorrowfull, mercifully aſſiſt our pray<g ref="char:EOLhyphen"/>ers that wee make before thee, in all our trou<g ref="char:EOLhyphen"/>bles and aduerſities, whenſoeuer they oppreſſe vs: and graciouſly heare vs, that thoſe euils, which the craft and ſubtiltie of the deuill or man worketh againſt vs, bee brought to naught, and by the prouidence of thy goodneſſe they may bee diſperſed, that wee thy ſeruants being hurt by no perſecutions, may euermore giue thankes vnto thee in thy holy Church, through Ieſus Chriſt our Lord. Amen.</p>
+               <p>
+                  <hi rend="roman">O Lord ariſe, helpe vs, and deliuer vs for thy Names ſake.</hi>
+               </p>
+               <p>O God, we haue heard with our eares, and our fa<g ref="char:EOLhyphen"/>thers haue declared vnto vs the noble workes that thou diddeſt in their dayes, and in the olde time be<g ref="char:EOLhyphen"/>fore them.</p>
+               <p>
+                  <hi rend="roman">O Lord ariſe, helpe vs, and deliuer vs for thine ho<g ref="char:EOLhyphen"/>nour.</hi>
+               </p>
+               <p>Glory be to the Father, and to the Sonne, &amp;c.</p>
+               <p>As it was in the beginning, is now, &amp;c.</p>
+               <p>From our enemies defend vs, O Chriſt.</p>
+               <p>
+                  <hi rend="roman">Graciouſly looke vpon our afflictions.</hi>
+               </p>
+               <p>Pitifully behold the ſorrowes of our hearts.</p>
+               <p>
+                  <hi rend="roman">Mercifully forgiue the ſinnes of thy people.</hi>
+               </p>
+               <p>Fauourably with mercy heare our prayers.</p>
+               <p>
+                  <hi rend="roman">O Sonne of Dauid, haue mercy vpon vs.</hi>
+               </p>
+               <p>Both now and euer vouchſafe to heare vs,</p>
+               <p>O Chriſt.</p>
+               <p>
+                  <hi rend="roman">Graciouſly heare vs, O Chriſt.</hi>
+               </p>
+               <p>
+                  <hi rend="roman">Graciouſly heare vs, O Lord Chriſt.</hi>
+               </p>
+               <p>
+                  <label>
+                     <pb facs="tcp:183747:17"/> The verſicle.</label> O Lord let thy mercy be ſhewed vpon vs.</p>
+               <p>
+                  <label>The anſwere.</label> As we doe put out truſt in thee.</p>
+               <p rend="roman">Let vs pray.</p>
+               <p>VVEe humbly beſeech thee, O Father, merci<g ref="char:EOLhyphen"/>fully to looke vpon our infirmities, and for the glory of thy Names ſake, turne from vs all thoſe euils that wee moſt righteouſly haue de<g ref="char:EOLhyphen"/>ſerued: and graunt that in all our troubles wee may put our whole truſt and confidence in thy mer<g ref="char:EOLhyphen"/>cie, and euermore ſerue thee, in holineſſe and pure<g ref="char:EOLhyphen"/>neſſe of liuing, to thy honour and glory, through our onely Mediatour and Aduocate Ieſus Chriſt our Lord. Amen.</p>
+            </div>
+            <div type="Psalms">
+               <p>
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 46. 1.</hi>
+                  </note> GOd is our hope, and ſtrength: a very preſent helpe in trouble.</p>
+               <p n="2">2 Therefore will we not feare, though the earth be mooued: and though the hils bee caried into the midſt of the ſea.</p>
+               <p n="3">3 Though the waters thereof rage, and ſwell: and though the mountaines ſhake at the tempeſt of the ſame.</p>
+               <p n="4">4 The riuers of the flood thereof ſhall make glad the Citie of God: the holy place of the Tabernacle of the moſt higheſt.</p>
+               <p n="5">5 God is in the middeſt of her, therefore ſhall ſhee not be remoued: God ſhall helpe her, and that right early.</p>
+               <p n="6">6 The Lord of hoſts is with vs: the God of Iacob is our refuge.</p>
+               <p n="8">
+                  <pb facs="tcp:183747:17"/>
+                  <note place="margin">
+                     <hi rend="roman">Pſa. 132. 8</hi>
+                  </note> 8 Ariſe, O Lord, into thy reſting place: thou, and the Arke of thy ſtrength.</p>
+               <p n="9">9 Let thy Prieſts be clothed with righteouſneſſe: and let thy ſaints ſing with ioyfulneſſe.</p>
+               <p n="10">10 For thy ſeruant Dauids ſake: turne not away the preſence of thine anoynted.</p>
+               <p n="11">11 The Lord hath made a faithfull oath vnto Da<g ref="char:EOLhyphen"/>uid: and he will not ſhrinke from it.</p>
+               <p n="12">12 Of the fruit of thy body: ſhall I ſet vpon thy ſeate.</p>
+               <p n="13">13 If thy children will keepe my couenant and my teſtimonies, that I ſhall learne them: their chil<g ref="char:EOLhyphen"/>dren alſo ſhall ſit vpon thy ſeate for euermore.</p>
+               <p n="1">
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 72.</hi>
+                  </note> 1 Giue thy iudgements therefore vnto the King, O God: and thy righteouſneſſe vnto the Kings ſonne.</p>
+               <p n="2">2 Then ſhall hee iudge the people according vnto right: and defend the poore.</p>
+               <p n="3">3 The mountaines alſo ſhall bring peace: and the little hilles righteouſneſſe vnto the people.</p>
+               <p n="4">4 Hee ſhall keepe the ſimple folke by their right: defend the children of the poore, and puniſh the wrong doer.</p>
+               <p n="5">5 In his time ſhall the righteous flouriſh: and a<g ref="char:EOLhyphen"/>bundance of peace ſo long as his reigne endureth.</p>
+               <p n="35">
+                  <note place="margin">
+                     <hi rend="roman">Pſal.</hi> 18.</note> 35 Thou ſhalt giue him the defence of thy ſaluati<g ref="char:EOLhyphen"/>on: thy right hand alſo ſhall hold him vp, and thy louing kindneſſe ſhall make him great.</p>
+               <p n="19">
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 132.</hi>
+                  </note> 19 As for his enemies, they ſhall bee clothed with ſhame: but vpon himſelfe ſhall his crowne flouriſh.</p>
+               <p n="7">
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 61.</hi>
+                  </note> 7 Hee ſhall dwell before God for euer: O prepare thy louing mercy, and faithfulneſſe, that they may preſerue him.</p>
+               <p n="28">
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 68.</hi>
+                  </note> 28 And now, O Lord, we humbly beſeech thee for
+<pb facs="tcp:183747:18"/> thy Temples ſake: ſtabliſh the thing that thou haſt wrought in vs.</p>
+               <p n="10">
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 28.</hi>
+                  </note> 10 O ſaue thy people, and giue thy bleſſing vnto thine inheritance: feed them, &amp; ſet them vp for euer.</p>
+               <p n="12">
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 145.</hi>
+                  </note> 12 That thy power, thy glory and thy kingdome: may be knowen vnto men.</p>
+               <p n="14">
+                  <note place="margin">
+                     <hi rend="roman">Pſal. 79.</hi>
+                  </note> 14 So that wee thy people, and the ſheepe of thy paſture ſhall giue thee thanks for euer: and we will alway bee ſhewing forth thy prayſe from generati<g ref="char:EOLhyphen"/>on to generation.</p>
+               <p n="21">21 Our mouth ſhall ſpeake the prayſe of the Lord: and let all fleſh giue thankes vnto his holy Name for euer and euer.</p>
+            </div>
+            <div type="prayers">
+               <sp>
+                  <p>Let vs pray.</p>
+               </sp>
+               <p>
+                  <hi rend="roman">O</hi> Lord God moſt mercifull Father, who as vpon this day, of thine eſpeciall grace and fauor, didſt place thy ſeruant King <hi rend="roman">Charles</hi> our Soueraigne, in the royall throne of this Kingdome, thereby aſſu<g ref="char:EOLhyphen"/>ring vs of the continuance of thy Goſpel, &amp; ſacred trueth amongſt vs, to the great ioy and comfort of our hearts: we thine vnworthy ſeruants, heere aſ<g ref="char:EOLhyphen"/>ſembled together in memory of this thy mercy, moſt humbly beſeech thy Fatherly goodneſſe to grant vs grace, that we may in word, deede, and heart, ſhew our ſelues alwayes thankefull vnto thee for the ſame; and that, as his Maieſtie hath now finiſhed one whole yeere of his happy gouernement, ſo through thy grace he may in all honour, vertue and godlineſſe continue the ſame his glorious reigne ouer vs many and many yeeres yet to come, and we dutifully obey him as faithfull and loyall ſubiects: that ſo wee may long enioy him with the continu<g ref="char:EOLhyphen"/>ance of thy great bleſſings, which by him thou haſt powred vpon vs, through Ieſus Chriſt our Lord.</p>
+               <pb facs="tcp:183747:18"/>
+               <p> ALmighty God and heauenly Father, by whom Kings doe reigne, and Princes are ſet vp to rule the people, which haſt by thy power and good<g ref="char:EOLhyphen"/>neſſe, ſafely and quietly aduanced to the Throne of this Kingdome, thy ſeruant our Souereigne Lord King <hi rend="roman">Charles,</hi> to the happy continuance of our peace and welfare, and to the bleſſed maintenance of thy Goſpel and true religion amongſt vs: wee prayſe and magnifie thy holy Name for this thy great and marueilous mercie, moſt humbly beſee<g ref="char:EOLhyphen"/>ching thee of thine infinite goodneſſe, ſo euermore to bleſſe and protect his Maieſty with thy grace and heauenly fauour, that hee may alwayes ſerue thee in true faith and godlineſſe, gouerne thy peo<g ref="char:EOLhyphen"/>ple in peace and righteouſneſſe, vanquiſh and ouer<g ref="char:EOLhyphen"/>come all his enemies, and finally after a long and proſperous reigne on earth, inherite with thee an euerlaſting kingdome in heauen, through thy Son our Lord and Sauiour Ieſus Chriſt. Amen.</p>
+               <p>ALmighty God, the fountaine of all goodneſſe, We humbly beſeech thee to bleſſe our gracious Queene <hi rend="roman">Mary, Fredericke</hi> the Prince Elector Pala<g ref="char:EOLhyphen"/>tine, &amp; the Lady <hi rend="roman">Elizabeth</hi> his wife, with their prince<g ref="char:EOLhyphen"/>ly iſſue: endue them with thy holy Spirit, enrich them with thy heauenly grace, proſper them with all happineſſe, and bring them to thine euerla<g ref="char:EOLhyphen"/>ſting kingdome, through Ieſus Chriſt our Lord, Amen.</p>
+               <p>ALmighty and euerlaſting God, which onely workeſt great marueiles, ſend downe vpon our Biſhops and Curates, and all congregations committed to their charge, the healthfull Spirit of
+<pb facs="tcp:183747:19"/> thy grace, and that they may truely pleaſe thee, powre vpon them the continuall deaw of thy bleſ<g ref="char:EOLhyphen"/>ſing: Grant this, O Lord, for the honour of our Ad<g ref="char:EOLhyphen"/>uocate and Mediatour Ieſus Chriſt, Amen.</p>
+               <p>
+                  <label>A prayer of Chryſoſtome.</label> ALmighty God, which haſt giuen vs grace at this time with one accord to make our com<g ref="char:EOLhyphen"/>mon ſupplications vnto thee, and doeſt promiſe that when two or three bee gathered together in thy Name, thou wilt grant their requeſts: fulfill now, O Lord, the deſires and petitions of thy ſeruants, as may bee moſt expedient for them, granting vs in this world knowledge of thy trueth, and in the world to come life euerlaſting, Amen.</p>
+               <p>THe grace of our Lord Ieſus Chriſt, and the loue of God, and the fellowſhip of the holy Ghoſt, be with vs all euermore, Amen.</p>
+            </div>
+         </div>
+         <div type="liturgy">
+            <pb facs="tcp:183747:19"/>
+            <head>
+               <g ref="char:leaf">❧</g> The ſecond Seruice.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Father which art in heauen, ha<g ref="char:EOLhyphen"/>lowed be thy Name. Thy King<g ref="char:EOLhyphen"/>dome come. Thy will bee done in earth as it is in heauen. Giue vs this day our dayly bread. And for<g ref="char:EOLhyphen"/>giue vs our treſpaſſes, as we forgiue them that treſpaſſe againſt vs. And leade vs not into temptation: But deliuer vs from all euill, Amen.</p>
+            <p>ALmighty God, vnto whom all hearts bee open, all deſires knowen, and from whom no ſecrets are hid, cleanſe the thoughts of our hearts by the inſpiration of thy holy Spirit, that wee may per<g ref="char:EOLhyphen"/>fectly loue thee, and worthily magnifie thy holy Name, through Chriſt our Lord, Amen.</p>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>GOd ſpake theſe wordes, and ſaid, I am the Lord thy God: Thou ſhalt haue none other Gods but me.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our hearts to keepe this Law.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Thou ſhalt not make to thy ſelfe any grauen image,
+<pb facs="tcp:183747:20"/> nor the likeneſſe of any thing that is in heauen a<g ref="char:EOLhyphen"/>boue, or in the earth beneath, or in the water vnder the earth. Thou ſhalt not bow downe to them, nor worſhip them: For I the Lord thy God am a ielous God, and viſite the ſinnes of the fathers vpon the children, vnto the third and fourth generation of them that hate mee, and ſhew mercy vnto thou<g ref="char:EOLhyphen"/>ſands in them that loue mee, and keepe my Com<g ref="char:EOLhyphen"/>mandements.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Thou ſhalt not take the Name of the Lord thy God in vaine: for the Lord will not hold him guiltleſſe that taketh his Name in vaine.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Remember that thou keepe holy the Sabbath day. Sixe dayes ſhalt thou labour and doe all that thou haſt to doe, but the ſeuenth day is the Sabbath of the Lord thy God. In it thou ſhalt doe no manner of worke, thou, and thy ſonne, and thy daughter, thy man ſeruant, &amp; thy maide ſeruant, thy cattell, &amp; the ſtranger that is within thy gates: For in ſixe dayes the Lord made heauen &amp; earth, the ſea, and all that in them is, and reſted the ſeuenth day: wherefore the Lord bleſſed the ſeuenth day, and hallowed it.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Honour thy Father and thy mother, that thy dayes may bee long in the land, which the Lord thy God giueth thee.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb facs="tcp:183747:20"/> People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Thou ſhalt doe no murder.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Thou ſhalt not commit adultery.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Thou ſhalt not ſteale.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Thou ſhalt not beare falſe witneſſe againſt thy neighbour.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and encline our hearts to keepe this Law.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>Thou ſhalt not couet thy neighbours houſe, Thou ſhalt not couet thy neighbours wife, nor his ſer<g ref="char:EOLhyphen"/>uant, nor his mayde, nor his oxe, nor his aſſe, nor a<g ref="char:EOLhyphen"/>ny thing that is his.</p>
+            </sp>
+            <sp>
+               <speaker>People.</speaker>
+               <p>Lord haue mercy vpon vs, and write all theſe thy Lawes in our hearts, we beſeech thee.</p>
+            </sp>
+            <sp>
+               <p>
+                  <hi>Let vs pray.</hi>
+               </p>
+               <p>ALmighty God, whoſe Kingdome is euerla<g ref="char:EOLhyphen"/>ſting, and power infinite: haue mercy vpon the whole Congregation, and ſo rule the heart of thy choſen ſeruant <hi rend="roman">Charles</hi> our King and Go<g ref="char:EOLhyphen"/>uernour, that hee (knowing whoſe miniſter hee
+<pb facs="tcp:183747:21"/> is) may aboue all things ſeeke thy honour and glo<g ref="char:EOLhyphen"/>ry, and that wee his ſubiects (duely conſidering whoſe authoritie he hath) may faithfully ſerue, ho<g ref="char:EOLhyphen"/>nour, and humbly obey him, in thee and for thee, according to thy bleſſed word &amp; ordinance, through Ieſus Chriſt our Lord, who with thee and the ho<g ref="char:EOLhyphen"/>ly Ghoſt liueth and reigneth euer one God, world without end, Amen,</p>
+            </sp>
+            <stage type="rubric">¶ Or this.</stage>
+            <p>
+               <hi rend="roman">O</hi> Moſt gracious God, and mercifull Father, we thine vnworthy ſeruants acknowledge it thy ſpeciall care and fatherly prouidence ouer vs, that it hath pleaſed thee, for the good of thy Church, and glory of this land, to place thy ſeruant King <hi rend="roman">Charles,</hi> our Souereigne Lord, in the Royal ſeat of this Kingdome, giuing vs by him, and with him, a happy continuance of thy ſacred trueth &amp; Goſpel, and of our former peace and proſperitie, together with a great increaſe of honour, power, and digni<g ref="char:EOLhyphen"/>tie: beſeeching thee to grant vnto him the defence of thy ſaluation, and to ſhew foorth thy holy kind<g ref="char:EOLhyphen"/>neſſe and mercie, both to his Maieſtie thine A<g ref="char:EOLhyphen"/>noynted, and to thy ſeruant our gracious Queene <hi rend="roman">Mary,</hi> with the reſt of the Royal ſeede for euer<g ref="char:EOLhyphen"/>more: and to ſtirre vp in our hearts a dutifull and loyal obedience vnto this thy ordinance, and a religious and holy thankefulneſſe vnto thee for theſe thy great mercies, through Ieſus Chriſt our Lord. Amen.</p>
+            <p>STirre vp, wee beſeech thee, O Lord, the willes of thy faithfull people, that they plenteouſly bringing foorth the fruits of good workes, may of
+<pb facs="tcp:183747:21"/> thee bee plenteouſly rewarded, through Ieſus Chriſt our Lord.</p>
+            <p>
+               <label>The Epiſtle.</label>
+               <note place="margin">
+                  <hi rend="roman">1. Pet. 2. 11.</hi>
+               </note> DEarely beloued, I beſeech you, as ſtrangers and pilgrims, abſteine from fleſhly luſts, which fight againſt the ſoule. And haue your conuerſa<g ref="char:EOLhyphen"/>tion honeſt among the Gentiles, that they which ſpeake euill of you, as of euill doers, may by your good workes which they ſhall ſee, glorifie God in the day of the viſitation. Submit your ſelues vn<g ref="char:EOLhyphen"/>to all maner ordinance of man for the Lords ſake, whether it bee vnto the King, as vnto the ſuperi<g ref="char:EOLhyphen"/>our, or vnto Gouernours, as vnto them that are ſent of him, for the puniſhment of euill doers, and for the praiſe of them that doe wel. For ſo is the wil of God, that by well doing ye may put to ſilence the ignorance of the fooliſh men: As free, and not as ha<g ref="char:EOLhyphen"/>uing the liberty for a cloke of maliciouſneſſe, but as the ſeruants of God. Honour all men: loue brother<g ref="char:EOLhyphen"/>ly fellowſhip: feare God: honour the King.</p>
+            <p>
+               <label>The Goſpel.</label>
+               <note place="margin">
+                  <hi rend="roman">Mat. 22: 16.</hi>
+               </note> ANd they ſent vnto him their diſciples with the Herodians, ſaying, Maſter, wee know that thou art true, and teacheſt the way of God truely, neither careſt for any man: for thou conſidereſt not the perſon of men. Tell vs therefore, how thin<g ref="char:EOLhyphen"/>keſt thou? Is it lawfull to giue tribute vnto Ceſar, or not? But Ieſus perceiued their wickednes, and ſayd, Why tempt ye me, ye hypocrites? Shew me the tribute money. And they brought him a peny. And hee ſayd vnto them, Whoſe is this image and
+<pb facs="tcp:183747:22"/> ſuperſcription? They ſaid vnto him, Ceſars. Then ſaid hee vnto them, Giue therefore to Ceſar, the things which are Ceſars, and giue vnto God, thoſe things which are Gods. And when they heard it, they marueiled, and left him and went their way.</p>
+            <p>
+               <hi rend="roman">I</hi> Beleeue in one God the Father Almightie, ma<g ref="char:EOLhyphen"/>ker of heauen and earth, and of all things viſi<g ref="char:EOLhyphen"/>ble and inuiſible: and in one Lord Ieſus Chriſt, the onely begotten Sonne of God, begotten of his Father before all worlds. God of God, Light of Light, very God of very God, begotten, not made, being of one ſubſtance with the Father, by whom all things were made: who for vs men, and for our ſaluation, came downe from heauen, and was incarnate by the holy Ghoſt, of the Vir<g ref="char:EOLhyphen"/>gin Marie, and was made man, and was crucifi<g ref="char:EOLhyphen"/>ed alſo for vs vnder Pontius Pilate. Hee ſuffered and was buryed, and the third day hee roſe a<g ref="char:EOLhyphen"/>gaine, according to the Scriptures, and aſcended into heauen, and ſitteth at the right hand of the Father. And hee ſhall come againe with glory to iudge both the quicke and the dead: whoſe Kingdome ſhall haue no end. And I beleeue in the holy Ghoſt, the Lord and giuer of life, who proceedeth from the Father and the Sonne, who with the Father and the Sonne together is wor<g ref="char:EOLhyphen"/>ſhipped and glorified, who ſpake by the Prophets. And I beleeue one Catholique and Apoſtolique Church. I acknowledge one baptiſme for the re<g ref="char:EOLhyphen"/>miſſion of ſinnes, and I looke for the reſurrection of the dead, and the life of the world to come. A<g ref="char:EOLhyphen"/>men.</p>
+            <pb facs="tcp:183747:22"/>
+            <p>
+               <note place="margin">
+                  <hi rend="roman">Matth. 5.</hi>
+               </note> LEt your light ſo ſhine before men, that they may ſee your good workes, and glorifie your Father which is in heauen.</p>
+            <p>¶ Let vs pray for the whole ſtate of Chriſtes Church militant here in earth.</p>
+            <p>ALmightie and euerliuing God, which by thy holy Apoſtle haſt taught vs to make prayers and ſupplications, and to giue thankes for all men: we humbly beſeech thee, moſt mercifully to receiue theſe our prayers which wee offer vnto thy diuine Maieſtie, beſeeching thee to inſpire continually the vniuerſall Church with the ſpirit of trueth, v<g ref="char:EOLhyphen"/>nitie, and concord: and graunt that all they that do confeſſe thy holy Name, may agree in the trueth of thy holy word, and liue in vnity and godly loue. We beſeech thee alſo to ſaue and defend all Chriſti<g ref="char:EOLhyphen"/>an Kings, Princes, and Gouernours, and eſpeci<g ref="char:EOLhyphen"/>ally thy ſeruant <hi rend="roman">Charles</hi> our King, that vnder him we may be godly and quietly gouerned. And grant vnto his whole Counſaile, and to all that be put in authoritie vnder him, that they may truely and in<g ref="char:EOLhyphen"/>differently miniſter iuſtice, to the puniſhment of wickedneſſe and vice, and to the maintenance of Gods true religion and vertue. Giue grace (O hea<g ref="char:EOLhyphen"/>uenly Father) to all Biſhops, Paſtours &amp; Curates, that they may both by their life &amp; doctrine ſet forth thy true and liuely word, and rightly and duely ad<g ref="char:EOLhyphen"/>miniſter thy holy Sacraments. And to all thy people giue thy heauenly grace, and eſpecially to this Congregation here preſent, that with meeke heart and due reuerence, they may heare and re<g ref="char:EOLhyphen"/>ceiue thy holy word, truly ſeruing thee in holineſſe
+<pb facs="tcp:183747:23"/> and righteouſneſſe all the dayes of their life. And wee moſt humbly beſeech thee of thy goodneſſe (O Lord) to comfort and ſuccour all them which in this tranſitory life bee in trouble, ſorrow, neede, ſickeneſſe, or any other aduerſitie. Graunt this, O Father, for Ieſus Chriſts ſake, our onely Me<g ref="char:EOLhyphen"/>diatour and Aduocate. Amen.</p>
+            <p>
+               <hi rend="roman">O</hi> Lord our God Sonne of the eternall Father, which vpholdeſt and gouerneſt all things in heauen and earth by the word of thy power, receiue our humble prayers with thankeſgiuing for our Soueraigne Lord King <hi rend="roman">Charles,</hi> ſet ouer vs by thy grace and prouidence to bee our King and Gouer<g ref="char:EOLhyphen"/>nour, and ſo together with his Maieſtie, bleſſe our gracious Queene, and the reſt of his Royall alli<g ref="char:EOLhyphen"/>ance with the dew of thy heauenly Spirit, that they euer truſting in thy goodneſſe, protected by thy power, and crowned with thy gracious and endleſſe fauour, may continue before thee in health and peace, ioy and honour, a long and happy gene<g ref="char:EOLhyphen"/>ration vpon earth, and after death obtaine euerla<g ref="char:EOLhyphen"/>ſting life and glory in the Kingdome of heauen, by thy merits and mediation, who with the Father and the holy Spirit liueſt and reigneſt euer one God, world without end. Amen.</p>
+            <p>ALmightie God, which haſt promiſed to heare the petitions of them that aſke in thy Sonnes Name, we beſeech thee, mercifully to incline thine eares to vs that haue made now our prayers and ſupplications vnto thee, and graunt that thoſe things which we haue faithfully aſked, according to thy will, may effectually bee obtained, to the re<g ref="char:EOLhyphen"/>liefe
+<pb facs="tcp:183747:23"/> of our neceſſitie, and to the ſetting forth of thy glory, through Ieſus Chriſt our Lord. Amen.</p>
+            <p>THe peace of God, which paſſeth all vnder<g ref="char:EOLhyphen"/>ſtanding, keepe your hearts and mindes in the knowledge and loue of God, and of his Sonne Ieſus Chriſt our Lord: and the bleſſing of God Almightie, the Father the Sonne and the holy Ghoſt, be among you, and remaine with you al<g ref="char:EOLhyphen"/>wayes. Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p rend="roman">¶ Imprinted at London by BONHAM NORTON and IOHN BILL, Printers to the Kings Moſt Excel<g ref="char:EOLhyphen"/>lent Maieſty. 1625.</p>
+            <pb facs="tcp:183747:24"/>
+            <pb facs="tcp:183747:24"/>
+         </div>
+      </back>
+   </text>
+</TEI>
